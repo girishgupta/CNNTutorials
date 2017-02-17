@@ -2,7 +2,7 @@
 
 ## Current ideas
 
-### How to install tensorflow-gpu python
+### How to install tensorflow-gpu for python
 
 ### Building and training a simple ConvNet
 
