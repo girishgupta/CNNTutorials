@@ -1,4 +1,4 @@
-# Concepts Here
+# What are Convolutional Neural Networks?
 There are a lot of concepts in Convolutional Neural Networks(CNN) that need to be covered. Here we'll go through each of them. CNNs can be thought of as two concepts, one being a neural network and the other being organized via convolutions.
 
 ### Neural Networks
