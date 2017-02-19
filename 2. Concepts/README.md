@@ -31,7 +31,7 @@ Pooling, also known as subsampling, reduces the dimensionality of the previous l
 ## Uses
 
 ### Classification
-
+https://github.com/sdeck51/CNNTutorials/blob/master/5.%20TransferLearning_Tutorial/README.md
 ### Regression
 https://github.com/sdeck51/CNNTutorials/tree/master/7.%20FacialFeatureDetection_Tutorial
 ### Segmentation
