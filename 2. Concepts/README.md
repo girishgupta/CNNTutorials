@@ -14,5 +14,11 @@ Ok so for this section I need to cover quite a bit.
 #### Convolution Layer
 #### Pooling
 #### Fully Connected Layer
-#### Classification
+
+
+## Uses
+
+### Classification
+### Regression
+### Segmentation
 
