@@ -26,14 +26,15 @@ Pooling, also known as subsampling, reduces the dimensionality of the previous l
 
 #### Fully Connected Layer
 
+#### Additional Stuff / Classification Layer /Full Pixel Layer
 
 ## Uses
 
 ### Classification
-#### Classification Layer
+
 ### Regression
 https://github.com/sdeck51/CNNTutorials/tree/master/7.%20FacialFeatureDetection_Tutorial
 ### Segmentation
+https://github.com/sdeck51/CNNTutorials/tree/master/6.%20Segmentation_Tutorial
 
-#### Full Pixel Layer
 
