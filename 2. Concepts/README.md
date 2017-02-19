@@ -7,6 +7,7 @@ Ok so for this section I need to cover quite a bit.
 #### Input Hidde, Output Layers
 #### Weights, Biases, Activation Functions
 
+#### Back Propagation
 #### Convolution
 ##### Kernel Sizes, Strides
 
