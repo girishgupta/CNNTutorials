@@ -10,7 +10,7 @@ Neural Networks are systems of several simple elements interconnected among each
 #### Inference/Training
 
 #### Back Propagation
-
+<img src="https://github.com/favicon.ico" height="48" width="48">
 
 
 
@@ -18,13 +18,11 @@ Neural Networks are systems of several simple elements interconnected among each
 ##### Kernel Sizes, Strides
 
 ### Convolutional Neural Networks
-
+<img src="https://ujwlkarn.files.wordpress.com/2016/08/screen-shot-2016-08-10-at-3-38-39-am.png" height="400" width="500">
 #### Convolution Layer
 Convolution layers consist of learnable kernels that are convolved against the input and output featur emaps.  
 #### Pooling Layer
 Pooling, also known as subsampling, reduces the dimensionality of the previous layers feature maps. These layers also help with overfitting by filtering out higher frequency information and retaining general low frequency information that is shared across a distribution of data, rather than specific training data. Like convolution, pooling uses a sliding window technique. The difference is in the operation of the window. There are several different types of downsampling used in pooling layers, some more popular such as max pooling.
-![alt tag](http://http://cs231n.github.io/assets/cnn/maxpool.jpeg)
-
 #### Fully Connected Layer
 
 #### Additional Stuff / Classification Layer /Full Pixel Layer
