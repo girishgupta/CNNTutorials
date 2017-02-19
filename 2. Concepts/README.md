@@ -1,13 +1,18 @@
 # Concepts Here
-Ok so for this section I need to cover quite a bit. 
+There are a lot of concepts in Convolutional Neural Networks(CNN) that need to be covered. Here we'll go through each of them. CNNs can be thought of as two concepts, one being a neural network and the other being organized via convolutions.
 
-## This includes
 ### Neural Networks
-
-#### Input Hidde, Output Layers
+Neural Networks are systems of several simple elements interconnected among each other that are trained and adjusted to some requested output for some given input.
+#### Input, Hidden, Output Layers
 #### Weights, Biases, Activation Functions
 
+#### Inference/Training
+
 #### Back Propagation
+
+
+
+
 #### Convolution
 ##### Kernel Sizes, Strides
 
