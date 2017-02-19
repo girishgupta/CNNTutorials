@@ -19,6 +19,9 @@ Ok so for this section I need to cover quite a bit.
 ## Uses
 
 ### Classification
+#### Classification Layer
 ### Regression
+
 ### Segmentation
+#### Full Pixel Layer
 
